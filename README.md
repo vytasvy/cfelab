@@ -1,0 +1,2 @@
+# cfelab
+CFEngine training lab
